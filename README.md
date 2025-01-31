@@ -27,3 +27,6 @@ Firebase for authentication and hosting
 Gemini API for the GPT-powered chat functionality
 EmailJS for sending emails via the email form
 Webpack Module Federation for seamless integration of micro-frontends
+
+MAIN POINT:-
+If the gpt not work it may issue of free API its free hits gets finish so this may be a issue if this happen it gives error in message instead of the question result
