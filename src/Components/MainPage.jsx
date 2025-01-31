@@ -14,11 +14,10 @@ const MainPage = () => {
         <div className="grid md:grid-cols-3 gap-8 mt-12">
           <div className="p-6 border rounded-lg hover:shadow-lg transition-shadow">
             <h3 className="text-xl font-semibold mb-3 text-blue-600">
-              Real-time Chat
+             Gpt-Page
             </h3>
             <p className="text-gray-500">
-              Instant messaging with markdown support, file sharing, and team
-              channels
+            Discover and create custom versions of ChatGPT that combine instructions, extra knowledge, and any combination of skills.
             </p>
           </div>
 
@@ -27,8 +26,7 @@ const MainPage = () => {
               Email Management
             </h3>
             <p className="text-gray-500">
-              Unified inbox, smart organization, and collaboration tools for
-              email workflows
+             Send your message on this email form to me
             </p>
           </div>
 
